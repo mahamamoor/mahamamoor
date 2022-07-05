@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**mahamamoor/mahamamoor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-###🔭 I’m currently working on my capstone project where I'm creating an inventory app to track products.
-###🌱 I’m currently continuing to learn React. 
+### 🔭 I’m currently working on my capstone project where I'm creating an inventory app to track products.
+### 🌱 I’m currently continuing to learn React. 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-###- ⚡ Fun fact: I love sailing and being in the ocean. I ran the NYC Marathon and cycled from Boston to NYC. 
+### ⚡ Fun fact: I love sailing and being in the ocean. I ran the NYC Marathon and cycled from Boston to NYC. 
 -->
